@@ -32,8 +32,8 @@ pip install seleniumbase pandas
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ups-reviews-scraper.git
-cd ups-reviews-scraper
+git clone https://github.com/yourusername/company-reviews-scraper.git
+cd company-reviews-scraper
 ```
 
 2. Run the script:
@@ -51,7 +51,7 @@ python ambnbox6.py
 
 ## Output
 
-- The reviews are saved in a CSV file named `UPS_reviews.csv`.
+- The reviews are saved in a CSV file named `company_reviews.csv`.
 - Each review is stored in a structured format within a Pandas DataFrame.
 
 ## Disclaimer
