@@ -32,7 +32,7 @@ pip install seleniumbase pandas
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/company-reviews-scraper.git
+git clone https://github.com/Meghna-00741/Ambitionboxscraper.git
 cd company-reviews-scraper
 ```
 
@@ -42,7 +42,7 @@ cd company-reviews-scraper
 python ambnbox6.py
 ```
 
-3. The script will extract reviews and save them in `UPS_reviews.csv`.
+3. The script will extract reviews and save them in `conpany_reviews.csv`.
 
 ## Configuration
 
