@@ -1,9 +1,9 @@
 # Ambitionboxscraper
 This bot helps scrape company reviews from up to 60 pages on Ambition Box
 
-# UPS Employee Reviews Scraper
+# Employee Reviews Scraper
 
-This project is a web scraper designed to collect employee reviews from AmbitionBox for UPS Logistics. It utilizes SeleniumBase for automated browsing and bypassing security measures.
+This project is a web scraper designed to collect employee reviews from AmbitionBox for any company. It utilizes SeleniumBase for automated browsing and bypassing security measures.
 
 ## Features
 
@@ -62,6 +62,3 @@ python ambnbox6.py
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-how 
-
