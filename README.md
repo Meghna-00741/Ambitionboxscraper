@@ -51,7 +51,7 @@ python ambnbox6.py
 
 ## Output
 
-- The reviews are saved in a CSV file named `company_reviews.csv`.
+- The reviews are saved in a CSV file named `your_company_reviews.csv`.
 - Each review is stored in a structured format within a Pandas DataFrame.
 
 ## Disclaimer
