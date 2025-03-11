@@ -41,7 +41,7 @@ def initialize_driver():
     return driver
 #defining scraper function
 def scrape_reviews(max_pages=None):
-    base_url = "https://www.ambitionbox.com/reviews/ups-logistics-reviews"
+    base_url = "your-company-url"
     reviewgroup = []
     driver = initialize_driver()
 #iterating through pages
@@ -83,5 +83,5 @@ for i, r in enumerate(reviews, 1):
 
 # Create DataFrame and export to CSV
 df = pd.DataFrame(reviews, columns=['Review'])
-df.to_csv('UPS_reviews.csv', index=False)
-print("Reviews exported to UPS_reviews.csv")
+df.to_csv('your_company_reviews.csv', index=False)
+print("Reviews exported to your_company_reviews.csv")
